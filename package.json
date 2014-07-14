@@ -1,0 +1,27 @@
+{
+  "name": "boxdropserver",
+  "version": "1.0.0",
+  "description": "one click save for pdfs into box account",
+  "main": "boxdrop.js",
+  "dependencies": {
+    "request": "*",
+    "path": "*",
+    "http": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vijay120/boxdrop.git"
+  },
+  "engines": {
+    "node": "0.10.28"
+  },
+  "keywords": [
+    "boxdrop"
+  ],
+  "author": "vijay ramakrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijay120/boxdrop/issues"
+  },
+  "homepage": "https://github.com/vijay120/boxdrop"
+}
